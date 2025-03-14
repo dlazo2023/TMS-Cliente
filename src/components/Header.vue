@@ -8,6 +8,7 @@
             <div class="top row py-3">
               <div class="col-md-3">
                 <span class="adresstime">
+                  <i class="fa-brands fa-facebook-f"></i>
                   2500 Southbranch Blvd A, United States</span
                 >
               </div>
@@ -24,6 +25,9 @@
                   ></a>
                   <a href="#" class="text-white me-3"
                     ><i class="fa-brands fa-twitter"></i
+                  ></a>
+                  <a href="#" class="text-white me-3"
+                    ><i class="fa-brands fa-linkedin"></i
                   ></a>
                   <a href="#" class="text-white"
                     ><i class="fa-brands fa-instagram"></i
